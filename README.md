@@ -3,7 +3,7 @@
 ## Juhend
 * Tõmba alla Docker programm Docker.com
 
-# Käsklus
+Käsklus:
 $ docker run -dp 80:3000 --name tictactoe-demo tictactoe:first
 
 ## Probleemid
