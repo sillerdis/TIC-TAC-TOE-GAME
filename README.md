@@ -4,10 +4,14 @@
 * Tõmba alla Docker programm Docker.com
 
 Käsklus:
+
+Käsklus:
 $ docker run -dp 80:3000 --name tictactoe-demo tictactoe:first
 
+http://localhost:3000/TIC-TAC-TOE-GAME
+
 ## Probleemid
-Päris palju on segadust, et mida mingid käsklused täpselt teevad ja mis eesmärgil. 
+Päris palju on segadust, et mida mingid käsklused täpselt teevad ja mis eesmärgil. Nõuab omajagu katse-eksituse meetodit.
 
 ## :rocket: Knowledges
  - `ReactJS`
